@@ -1,17 +1,9 @@
-# The Chunky Zacko webpage
+> This website is considered obsolete. [The account is now replaced by TekiDev, which is also me](https://github.com/tekidev0).
 
-You should make things in the webpage, this domain `chunkyzacko5.github.io` thing.
+You can visit these pages, but they have bad grammar and I didn't update them (be ready for Engrish):
 
-# Old releases on the Linux distros:
+[Old versions of the Ubuntu-based Zorin OS distribution](https://chunkyzacko5.github.io/zorin-os-old-releases) (from 1.0 to 15).
 
-List of many Linux distros old releases, got from [DistroWatch](https://distrowatch.com), the old releases.
+[Cubuntu, which was a Ubuntu respin by me (originally called "Cubuntu (CZOS Edition)")](https://chunkyzacko5.github.io/cubuntu). I rebuilt the ISO [here](https://archive.org/details/cubuntu) because the [original ISO](https://archive.org/details/cubuntu-os) wasn't bootable.
 
-[Zorin OS Old Releases](https://chunkyzacko5.github.io/zorin-os-old-releases)
-
-# Operating systems:
-
-[Cubuntu (CZOS Edition)](https://chunkyzacko5.github.io/cubuntu)
-
-# Posts by Chunky Zacko:
-
-[ChromeOS installation](https://chunkyzacko5.github.io/chromeos-installation)
+[Steps on how to install ChromeOS on a x86_64 PC](https://chunkyzacko5.github.io/chromeos-installation). I think it was stupid to put it here.
